@@ -1,4 +1,4 @@
-# Beacon v2.x
+# Beacon v2.x alpha
 
 [![Testsuite](https://github.com/EGA-archive/beacon-2.x/workflows/Testsuite/badge.svg)](https://github.com/EGA-archive/beacon-2.x/actions)
 
